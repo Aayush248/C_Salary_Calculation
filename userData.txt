@@ -1,0 +1,105 @@
+Name: ayush
+Date: Mar  6 2023
+Role: hdb
+Hours Worked: 5.00
+Normal Rate: 23.00
+Normal Pay: 115.00
+OT Hour: 7.00
+OT Rate: 5.00
+OT Pay: 35.00
+Sub Total: 150.00
+PF: 15.00
+Net Total: 135.00
+Tax: 16.20
+Grand Total: 118.80
+
+Name: yedsf
+Date: Mar  6 2023
+Role: 44fd
+Hours Worked: 5.00
+Normal Rate: 67.00
+Normal Pay: 335.00
+OT Hour: 5.00
+OT Rate: 98.00
+OT Pay: 490.00
+Sub Total: 825.00
+PF: 82.50
+Net Total: 742.50
+Tax: 89.10
+Grand Total: 653.40
+
+Name: fbwi
+Date: Mar  6 2023
+Role: regar
+Hours Worked: 5.00
+Normal Rate: 6.00
+Normal Pay: 30.00
+OT Hour: 0.00
+OT Rate: 0.00
+OT Pay: 0.00
+Sub Total: 30.00
+PF: 3.00
+Net Total: 27.00
+Tax: 3.24
+Grand Total: 23.76
+
+Name: Ashish 
+Date: Mar  7 2023
+Role: janitor
+Hours Worked: 25.00
+Normal Rate: 30.00
+Normal Pay: 750.00
+OT Hour: 0.00
+OT Rate: 0.00
+OT Pay: 0.00
+Sub Total: 750.00
+PF: 75.00
+Net Total: 675.00
+Tax: 81.00
+Grand Total: 594.00
+
+Name: Juan
+Date: Mar  8 2023
+Role: Janitor
+Hours Worked: 3 Hours
+Normal Rate: $24.00/hr
+Normal Pay: $72.00
+OT Hour: 3 Hour
+OT Rate: $30.00/hr
+OT Pay: $90.00
+Sub Total: $162.00
+PF: $16.20
+Net Total: $145.80
+Tax: $17.50
+Grand Total: $128.30
+
+Name: aayush
+Date: Mar 19 2023
+Role: salesman
+Hours Worked: 3 Hours
+Normal Rate: $28.00/hr
+Normal Pay: $84.00
+OT Hour: 2 Hour
+OT Rate: $45.00/hr
+OT Pay: $90.00
+Sub Total: $174.00
+PF: $17.40
+Net Total: $156.60
+Tax: $18.79
+Grand Total: $137.81
+
+Name: Harry
+Date: Mar 19 2023
+Role: Manager
+Hours Worked: 8 Hours
+Normal Rate: $75.00/hr
+Normal Pay: $600.00
+OT Hour: 2 Hour
+OT Rate: $80.00/hr
+OT Pay: $160.00
+Sub Total: $760.00
+PF: $76.00
+Net Total: $684.00
+Tax: $82.08
+Grand Total: $601.92
+
